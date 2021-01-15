@@ -82,7 +82,3 @@ menu:
       title: Project Portfolio
       url: /project/
       weight: 3
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 4
